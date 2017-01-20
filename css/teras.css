@@ -16,6 +16,29 @@ body {
   margin: 0;
 }
 
+.header{
+    padding: 0px;
+    padding-bottom: 10px;
+    background-color: #BDB76B;  
+    margin: 0px;
+    margin-left: 120px;
+    margin-right: 130px;
+    clear:both;
+    text-align: left;
+    font-family: fjalla one, sans-serif;
+}
+
+.header-bawah{
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+    background-color:#BDB76B ;  
+    margin-left: 20px;
+    margin-right: 130px;
+    text-align: left ;
+    font-family: fjalla one, sans-serif;
+    
+}
 .bg-header{
     background-color: #BDB76B;
     font-family: fjalla one, sans-serif;

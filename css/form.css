@@ -22,8 +22,10 @@ p {
     
 }
 .bg-header{
-    background-color: #BDB76B;
+    /*background-color: #BDB76B;
+    */
     font-family: fjalla one, sans-serif;
+    border: 10px solid red;
     
     /*
     margin-left: 120px;
