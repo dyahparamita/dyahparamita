@@ -19,11 +19,7 @@ margin: 10px;
 
 .sidebar_left {
 float: left;
-<<<<<<< HEAD
-width: 13%;
-=======
 width: 14%;
->>>>>>> origin/master
 margin-left: 10px;
 padding: 10px;
 border: 5px solid #000;
@@ -36,11 +32,8 @@ float: left;
 width: 61.8%;
 padding: 10px;
 border: 5px solid #000;
-<<<<<<< HEAD
-=======
-margin: 0 5px;    
->>>>>>> origin/master
 background: #3300FF;
+margin: 0 5px;
 }
 
 .sidebar_right {
@@ -58,8 +51,4 @@ margin: 10px;
 clear: both;
     
 background: #FF0000;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master

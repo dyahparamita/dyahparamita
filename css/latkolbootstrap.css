@@ -7,24 +7,23 @@ html, body {
 }
 body { 
     font-family: fjalla one, sans-serif;
-    background-color: saddlebrown;
+    background-color: #e5c4ac;
   background-position: center;
   background-size:cover;
 
 }
 
 .container {
-    margin-top: 50px ;
+    margin:auto; 
+    width: auto;
 }
 
-   
 
-
-
-.bg-kuning{
+.header{
     background-color: #e5f710;
     font-family: fjalla one, sans-serif;
     border: 5px solid red;
+    margin-top: 20;
 }
 
 .bg-biru{
@@ -36,29 +35,30 @@ body {
 .bg-merah{
     background-color: #f20505;
     font-family: fjalla one, sans-serif;
-    border: 3px solid yellow;
-    margin: 3px;
+    /*border: 2px solid yellow;
+    margin: 2px;*/
 }
 
 .bg-hijau{
     background-color: #089328;
     font-family: fjalla one, sans-serif;
-    border: 3px solid yellow;
-    margin: 3px;
+    /*border: 2px solid yellow;
+    margin: 2px; */
 }
 
-.bg-ungu{
-    background-color: #7d0fce;
+.bg-pink{
+    background-color: #e81ae0;
     font-family: fjalla one, sans-serif;
 }
-.bg-main{
-    background-color: 	#DEB887;
-    font-family: fjalla one, sans-serif;
-
-}
-
 
 #main-content{
     margin: 20px auto;
     
 }
+.bg-ungu{
+    background-color: #7d0fce;
+    font-family: fjalla one, sans-serif;
+    border: 5px solid red
+}
+
+
